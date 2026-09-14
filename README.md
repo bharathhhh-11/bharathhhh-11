@@ -1,6 +1,5 @@
-# README
 
-<h1 align="left">Cyber Security Student</h1>
+<h1 align="left">Hi, I am Bharath Waj .D</h1>
 
 ## About Me
 
