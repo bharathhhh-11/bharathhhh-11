@@ -8,7 +8,7 @@ I'm a Cyber Security Student passionate about ethical hacking, network security,
 <table>
   <tr>
     <th align="left" width="220">Education</th>
-    <td>B.E Computer Science Engeneering(Cyber Security)</td>
+    <td>B.E Computer Science Engineering(Cyber Security)</td>
   </tr>
   <tr>
     <th align="left" width="220">Languages</th>
